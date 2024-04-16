@@ -1,0 +1,14 @@
+	Bienvenu Chez Super Marché Soulaima
+
+Numéro Facture : 3069
+Nom Client : JAIDANE
+Télephone : SOULAIMA
+Email : OO
+**********************************************************
+Produits		QTE		Prix
+**********************************************************Levis		1		5000
+
+**********************************************************
+Total Bruite : 			Rs.5000.00
+Total Taxe : 			Rs.0.00
+Total Net : 			Rs.5000.00

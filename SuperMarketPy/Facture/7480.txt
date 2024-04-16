@@ -1,0 +1,16 @@
+	Bienvenu Chez Super Marché Soulaima
+
+Numéro Facture : 7480
+Nom Client : Baha
+Télephone : 11111
+Email : @
+**********************************************************
+Produits		QTE		Prix
+**********************************************************Techno Com11		5		1180400
+Zara		3		7650
+Jennyfer		1		2550
+
+**********************************************************
+Total brute : 			1190600.00 DT
+Total Taxe : 			11880.50 DT
+Total Net : 			1202480.50 DT

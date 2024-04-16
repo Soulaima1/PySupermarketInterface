@@ -1,0 +1,15 @@
+	Bienvenu Chez Super Marché Soulaima
+
+Numéro Facture : 5510
+Nom Client : jaidane
+Télephone : soulaima
+Email : @
+**********************************************************
+Produits		QTE		Prix
+**********************************************************Peter Englan		4		20000
+Iphone 11		1		65000
+
+**********************************************************
+Total Bruite : 			85000.00 DT
+Total Taxe : 			200.00 DT
+Total Net : 			85200.00 DT

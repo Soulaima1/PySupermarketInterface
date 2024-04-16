@@ -1,0 +1,15 @@
+	Bienvenu Chez Super Marché Soulaima
+
+Numéro Facture : 4701
+Nom Client : ilyes
+Télephone : 123
+Email : @
+**********************************************************
+Produits		QTE		Prix
+**********************************************************Fair&Lovely		23		35880
+Massimo Dutti		1		6800
+
+**********************************************************
+Total brute : 			42680.00 DT
+Total Taxe : 			358.80 DT
+Total Net : 			43038.80 DT

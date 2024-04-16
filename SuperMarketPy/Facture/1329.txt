@@ -1,0 +1,15 @@
+	Bienvenu Chez Super Marché Soulaima
+
+Numéro Facture : 1329
+Nom Client : SOULAIMA
+Télephone : 1111
+Email : @
+**********************************************************
+Produits		QTE		Prix
+**********************************************************Garnier		1		1250
+Garnier		1		1250
+
+**********************************************************
+Total brute : 			2500.00 DT
+Total Taxe : 			12.50 DT
+Total Net : 			2512.50 DT
